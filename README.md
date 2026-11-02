@@ -18,26 +18,43 @@
 
 <h2 align="center">👋 About Me</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/💻_CSE_Undergrad-'27-6366F1?style=flat-square" alt="CSE Undergrad" />
-  <img src="https://img.shields.io/badge/🧠_AI%2FML-Enthusiast-EC4899?style=flat-square" alt="AI/ML Enthusiast" />
-  <img src="https://img.shields.io/badge/🚀_Builder_by_mindset-Curious_by_default-10B981?style=flat-square" alt="Builder by mindset" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <h3>🔬</h3>
+      <img src="https://img.shields.io/badge/Research-6366F1?style=for-the-badge" alt="Research" />
+      <br /><br />
+      <b>Research Intern @ IIT Patna</b>
+      <br /><br />
+      Software &amp; AI Engineering internship with hands-on research experience in deep learning.
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>📄</h3>
+      <img src="https://img.shields.io/badge/Publication-EC4899?style=for-the-badge" alt="Publication" />
+      <br /><br />
+      <b>Co-author, Multi-Agent AI</b>
+      <br /><br />
+      A multi-agent system for personalized medication management, presented at IEM ICDC 2026 and in press with Springer Nature.
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>🌱</h3>
+      <img src="https://img.shields.io/badge/Growth-10B981?style=for-the-badge" alt="Growth" />
+      <br /><br />
+      <b>Always Learning</b>
+      <br /><br />
+      Eager to explore new technologies, sharpen my skills, and contribute to the developer community.
+    </td>
+  </tr>
+</table>
 
-I love turning ideas into real-world software and exploring how AI meets practical problem-solving 🧠. From deep learning pipelines to multi-agent systems and RAG applications, I enjoy building, experimenting, and solving problems using Python, C++, SQL, and PyTorch. 🚀
-
-🔬 I interned in Software & AI Engineering at IIT Patna, gaining hands-on research experience in deep learning. I'm also a co-author of a multi-agent AI system for personalized medication management, presented at IEM ICDC 2026 and currently in press with Springer Nature. 📄
-
-Always eager to explore new technologies, sharpen my skills, and contribute to the developer community. 🌱
-
-> ⚡ **Building. Breaking. Learning. Repeating.**
+<p align="center">⚡ <b>Building. Breaking. Learning. Repeating.</b></p>
 
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center"><img src="https://img.shields.io/badge/Languages-6366F1?style=for-the-badge" alt="Languages" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=py,c,cpp,ts" alt="Languages icons" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts" alt="Languages icons" /></p>
 
 <p align="center"><img src="https://img.shields.io/badge/Web_%26_Mobile-EC4899?style=for-the-badge" alt="Web and Mobile" /></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,vite,tailwind,flutter" alt="Web and Mobile icons" /></p>
