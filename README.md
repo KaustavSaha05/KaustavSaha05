@@ -115,7 +115,7 @@
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
 </p>
 
-<p align="center"><a href="https://github.com/BlackClover-pvt/BugX">🔗 View Repo</a></p>
+<p align="center"><a href="https://github.com/KaustavSaha05/BugX">🔗 View Repo</a></p>
 
 ---
 
